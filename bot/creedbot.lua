@@ -224,7 +224,6 @@ function create_config( )
     "tagall",
     "text",
     "info",
-    "bot_on_off",
     "welcome",
     "webshot",
     "google",
@@ -244,21 +243,20 @@ function create_config( )
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.3
+    about_text = [[Telecat
+    tele cat is your group manager
     
-     Hello my Good friends 
+    sudo:
+    @pouya_x_boy
+    
+    admin:
+    @shahabambesik
+    
+    version test
+    ________________________
+    channel:
+    @telecat_antispam
      
-    ‼️ this bot is made by : @creed_is_dead
-   〰〰〰〰〰〰〰〰
-   ߔࠀ   our admins are : 
-   ߔࠀ   @sorblack_creed
-   ߔࠀ   @amircc_creed
-   ߔࠀ   @aria_creed
-   〰〰〰〰〰〰〰〰
-  ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
-   تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
-   !feedback (your ideas and messages)
-]],
     help_text_realm = [[
 Realm Commands:
 
@@ -346,7 +344,7 @@ You Can user both "!" & "/" for them
 
 ]],
     help_text = [[
-Creed bots Help for mods : Plugins
+ Telecat Help for mods : Plugins
 
 Banhammer : 
 
