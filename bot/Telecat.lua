@@ -248,6 +248,8 @@ function create_config( )
     about_text = [[Telecat
     tele cat is your group manager
     
+    special thanks to:SeedTeam
+    
     sudo:
     @pouya_x_boy
     
