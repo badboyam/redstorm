@@ -208,6 +208,8 @@ function create_config( )
     "inrealm",
     "ingroup",
     "inpm",
+    "chat",
+    "Welcome",
     "banhammer",
     "Boobs",
     "Feedback",
