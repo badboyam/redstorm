@@ -532,17 +532,6 @@ To send your ideas to the Moderation group
 !tagall (text)
 To tags the every one and sends your message at bottom
 تگ کردن همه ی اعضای گروه و نوشتن پیام شما زیرش
-
-〰〰〰〰〰〰〰〰〰
-More plugins  soon ...
-⚠️ We are Creeds ⚠️
-
-our channel : @creedantispam_channel
-کانال ما
-
-You Can user both "!" & "/" for them
-می توانید از دو شکلک !  و / برای دادن دستورات استفاده کنید
-
 ]]
 
   }
