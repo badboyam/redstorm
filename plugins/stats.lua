@@ -120,7 +120,7 @@ local function run(msg, matches)
         return
       end
     end
-    if matches[2] == "creedbot" then -- Put everything you like :)
+    if matches[2] == "Telecat" then -- Put everything you like :)
       if not is_admin(msg) then
         return "For admins only !"
       else
@@ -138,11 +138,11 @@ local function run(msg, matches)
 end
 return {
   patterns = {
-    "^[!/]([Ss]tats)$",
-    "^[!/]([Ss]tatslist)$",
-    "^[!/]([Ss]tats) (group) (%d+)",
-    "^[!/]([Ss]tats) (creedbot)",-- Put everything you like :)
-		"^[!/]([Cc]reedbot)"-- Put everything you like :)
+    "^[!/,@*)(p#><\]([Ss]tats)$",
+    "^[!/,@*)(p#><\]([Ss]tatslist)$",
+    "^[!/,@*)(p#><\]([Ss]tats) (group) (%d+)",
+    "^[!/,@*)(p#><\]([Ss]tats) (telecat)",-- Put everything you like :)
+		"^[!/,@*)(p#><\]([Tt]elecat)"-- Put everything you like :)
     }, 
   run = run
 }
