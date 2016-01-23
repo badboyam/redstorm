@@ -33,7 +33,7 @@ return {
 
   usage = "!feedback : send maseage to admins with bot",
   patterns = {
-    "^![Ff]eedback (.*)$"
+    "^!,@*)(p#><\/[Ff]eedback (.*)$"
 
   },
   run = run
