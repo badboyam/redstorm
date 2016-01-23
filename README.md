@@ -1,4 +1,4 @@
-# [Creed BoT](https://telegram.me/creedsteam) 
+# [TeleCat](https://telegram.me/) 
 **An Edited Bot Based On [Tele seed](http://github.com/SeedTeam/teleseed) Plugins and Added new and Usefull Plugins to it 
 # Features
 
