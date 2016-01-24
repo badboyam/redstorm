@@ -238,6 +238,7 @@ function create_config( )
     "broadcast",
     "download_media",
     "invite",
+    "antifosh",
     "all",
     "leave_ban"
     },
