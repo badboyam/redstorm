@@ -120,7 +120,7 @@ local function run(msg, matches)
         return
       end
     end
-    if matches[2] == "Telecat" then -- Put everything you like :)
+    if matches[2] == "Redstorm" then -- Put everything you like :)
       if not is_admin(msg) then
         return "For admins only !"
       else
@@ -141,8 +141,8 @@ return {
     "^[!/,@*)(p#><\]([Ss]tats)$",
     "^[!/,@*)(p#><\]([Ss]tatslist)$",
     "^[!/,@*)(p#><\]([Ss]tats) (group) (%d+)",
-    "^[!/,@*)(p#><\]([Ss]tats) (telecat)",-- Put everything you like :)
-		"^[!/,@*)(p#><\]([Tt]elecat)"-- Put everything you like :)
+    "^[!/,@*)(p#><\]([Ss]tats) (redstorm)",-- Put everything you like :)
+		"^[!/,@*)(p#><\]([Rr]edstorm)"-- Put everything you like :)
     }, 
   run = run
 }
