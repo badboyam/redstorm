@@ -29,35 +29,32 @@ end
 if msg.text == "Bye" then
 	return "Babay"
 end
-if msg.text == "bye" then
-	return "Bye Bye"
+if msg.text == "what's your name?" then
+	return "My name is RedStorm"
 end
-if msg.text == "kos nanat" then
-return "nanat jendas doroste"
+if msg.text == "کس نگو" then
+return "کس اگه گفتنی ننت خواننده بود🎅"
 end
 if msg.text == "سلام" then
 return "سلام رفیق"
 end
-if msg.text == "شهاب" then
-return "🎅با ناپدریم چیکار داری"
-end
-if msg.text == "shahab" then
-return "🎅با ناپدریم چیکار داری"
+if msg.text == "ایلیا" then
+return "با بابا جونم چیکار داری"
 end
 if msg.text == "پویا" then
-return "🎅با بابام چیکار داری؟"
+return "با ناپدریم چیکار داری؟"
 end
-if msg.text == "pouya" then
-return "با بابام چیکار داری"
 return {
 	description = "Chat With Robot Server", 
 	usage = "chat with robot",
 	patterns = {
 		"^[Hh]i$",
 		"^[Hh]ello$",
+		"^what's your name?$,
+		"^کس نگو",
 		"^[Bb]ot$",
-		"^[Pp]ouya$",
-		"^[Ss]ahab$",
+		"^پویا$",
+		"^ایلیا$",
 		"^[Bb]ye$",
 		"^?$",
 		"^[Ss]alam$",
