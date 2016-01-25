@@ -226,6 +226,7 @@ function create_config( )
     "tagall",
     "text",
     "info",
+    "gif",
     "welcome",
     "webshot",
     "google",
@@ -345,65 +346,65 @@ You Can user both "!" & "/" for them
 ]],
     help_text = [[
  Telecat Help for mods : Plugins
- !feedback <text>
+ !feedback <text>📻
 ارسال نظر انتفادات و پیشنهادات خود
-!kick <username,id>
+!kick <username,id>🎯
 اخراج افراد همچنین می توان ریپلای اخراج کنید
-!ban <username,id>
+!ban <username,id>💀
 بن کردن همچنین می توان با ریپلای بن کرد
-!unban <username,id>
+!unban <username,id>👽
 در آوردن از بن همچنین با ریپلای هم میتوان از بن خارج کرد
-!who
+!who🎲
 لیست اعضا
-!modlist
+!modlist🎤
 لیست مدیرها
-!promote <username>
+!promote <username>😎
 مدیر کردن افراد در گروه
-!demote <username>
+!demote <username>😡
 خارجی کردن افراد از مدیریت
-!kickme
+!kickme😂
 اخراج شدن شما از گروه
-!about
+!about🏃
 درباره گروه
-!setphoto
+!setphoto🚀
 گذاشتن عکس برای گروه
-!setname <name>
+!setname <name>✈
 تغییر نام گروه
-!rules
+!rules®
 قوانین گروه
-!id
+!id🔴
 ایدی گروه
-!help
+!help📺
 راهنمای دستورات
-!lock <member,name,bots,leave
+!lock <member,name,bots,leave🎳
 قفل کردن اعضا نام ربات و لفت
-!unlock <member,name,bots,leave>
+!unlock <member,name,bots,leave>🎹
 باز کردن قفل اعضا نام ربات و لفت
-!set rules <text>
+!set rules <text>🎷
 تغییر قوانین گروه
-!set about <text>
+!set about <text>📷
 تغییر موضوع گروه
-!setting
+!setting🎬
 مشاهده تنظیمات گروه
 !newlink
 ساخت لینک جدید
-!link
+!link🎭
 دریافت لینک
-!owner
+!owner😈
 مشاهده صاحب گروه
-!setowner <id>
+!setowner <id>😊
 تغغیر صاحب گروه
-!setflood <value>
-حساسیب اسپو از 5 تا20
-!clean <member,modlist.rules,about>
+!setflood <value>😤
+حساسیت اسپم از5تا20
+!clean <member,modlist.rules,about>😷
 پاک کردن ممبر مدیران قوانین موضوع
-!res @username
+!res @username😱
 گرفتن ایدی توسط یوزر نیم
-!banlist
+!banlist👀
 لیست بن شدگان
-!sms <id> <text>
+!sms <id> <text>👌
 (ارسال متن توسط ربات به شخصی (فقط سودو
-توجه:
+توجه:🎃
 شما به هیچ عوان نمیتوانید رباتو  با ایدی یا شماره در گروه ادد کید
 ]]
 
